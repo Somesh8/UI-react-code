@@ -4,10 +4,11 @@ Click on "Code" > Download Zip
 
 `UI-react-code-main.zip` file is gets downloaded.
 
-PLease look into following code
-UI code: finance-ui.zip
-BE code: 
-      -AssetService.zip
-      -PortfolioService.zip
-      -ServiceRegistry.zip
-      -UserService.zip
+## UI Code
+-finance-ui.zip
+
+## BE Code
+-AssetService.zip
+-PortfolioService.zip
+-ServiceRegistry.zip
+-UserService.zip
